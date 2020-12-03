@@ -3,7 +3,7 @@
 這裡會放上一些練習的作品集
 
 ## 目錄
-1.  [BigInt Calculator](/BigInt Calculator/BigInt Calculator/) 大數計算機
+1.  [BigInt Calculator 大數計算機](./BigInt Calculator/BigInt Calculator/) 
    *   目的：
    透過自訂的class BigInt 儲存數值，以突破整數型態 overflow 的限制，並使之能與c++的整數運算一樣使用基本功能
    *  基本功能：
